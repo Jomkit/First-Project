@@ -1,0 +1,17 @@
+body {
+    background-color: lightgray;
+
+}
+
+div {
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    color: darkblue;
+}
+
+p {
+    color: darkred;
+}
